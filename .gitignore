@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Kotlin
+.kotlin/
+
+# Java / Maven
+target/
+/src/
+
+# Node / Vite
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.tsbuildinfo
